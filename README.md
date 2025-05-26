@@ -7,3 +7,10 @@ Proyek Flutter sederhana ini dirancang sebagai contoh praktis sekaligus studi ka
 ![Screenshot_20250526_214020](https://github.com/user-attachments/assets/fb360b07-9650-429b-a3be-da7f8aef2269)
 
 
+##  Cara Menjalankan Aplikasi
+### Langkah-langkah :
+```bash
+git clone https://github.com/namakamu/UTS_PemrogramanBerbasisMobile.git
+cd UTS_PemrogramanBerbasisMobile
+flutter pub get
+flutter run
