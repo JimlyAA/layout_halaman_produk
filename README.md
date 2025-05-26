@@ -4,7 +4,8 @@ Project Flutter sederhana ini didesain sebagai contoh praktis dan studi kasus un
 
 ## Screenshot Aplikasi
 
-![Screenshot Aplikasi](images/screen_shots.png)
+![Screenshot_20250526_214020](https://github.com/user-attachments/assets/fb360b07-9650-429b-a3be-da7f8aef2269)
+
 
 ## Tujuan Project
 
